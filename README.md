@@ -1,2 +1,2 @@
 # SUm
-A venir - Récupère les info SNMP,UPnP &amp; mDNS
+A venir - Récupère les info SNMP,UPnP & mDNS
