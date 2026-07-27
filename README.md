@@ -1,6 +1,6 @@
 # SUm
 
-Scan & enregistre les indo SNMP,UPnP et mDNS dans un rapports html
+Scan et enregistre les info SNMP,UPnP & mDNS dans un rapport html
 
 | Outils | URLs |  
 | --- | --- |  
