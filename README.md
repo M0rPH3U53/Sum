@@ -16,7 +16,6 @@ Scan et enregistre les info SNMP,UPnP & mDNS dans un rapport html
 └──╼ $sudo apt install nmap xsltproc fonts-noto-color-emoji  
 ```
 ## 👁️ Demo
-
 ```
 ┌─[m0rph3u5@parrot]─[~/Scripts]
 └──╼ $sudo ./SUm.sh
