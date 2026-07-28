@@ -49,3 +49,8 @@ by M0rPH3U53
  
 📋 Rapports --> /home/m0rph3u5/Scripts/SUm/
 ```
+## 📋 Rapport
+
+Info SNMP
+
+<img width="1384" height="730" alt="1" src="https://github.com/user-attachments/assets/1a4e3b4e-8cf0-43f4-bfee-ab5278513bda" />
