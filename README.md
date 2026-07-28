@@ -40,7 +40,7 @@ by M0rPH3U53
  
 [i] Network: 192.168.56.0/24
  
-🔍 Scan SUm...100%
+🔍 Scan UDP...100%
  
 🤖 Hotes SUm
  
