@@ -54,3 +54,11 @@ by M0rPH3U53
 Info SNMP
 
 <img width="1384" height="730" alt="1" src="https://github.com/user-attachments/assets/1a4e3b4e-8cf0-43f4-bfee-ab5278513bda" />
+
+Info UPnP
+
+<img width="1384" height="476" alt="2" src="https://github.com/user-attachments/assets/89493d50-3e2b-440d-807c-ab82d5901090" />
+
+Info mDNS
+
+<img width="1383" height="867" alt="3" src="https://github.com/user-attachments/assets/20b55d53-0299-47cd-86b4-c5d8cc1e7400" />
