@@ -2,7 +2,7 @@
 
 
 
-Scan et enregistre les info SNMP,UPnP & mDNS dans un rapport html
+Enregistre les info des protocoles SNMP,UPnP & mDNS dans un rapport html
 
 | Outils | URLs |  
 | --- | --- |  
