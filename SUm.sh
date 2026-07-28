@@ -44,7 +44,7 @@ read network
 
 # Découverte réseau d'appareil SNMP,UPnP,mDNS
 echo " "
-echo -ne "🔍 ${BLANC}Scan SNMP,UPnP,mDNS${RESET}..."
+echo -ne "🔍 ${BLANC}Scan UDP${RESET}..."
 hotes=$(nmap -sU -p 1900,5353,161 --open ${network} -oG - | grep "/open" | awk '{print $2}')
 echo -e "${JAUNE}100%${RESET}"
 
