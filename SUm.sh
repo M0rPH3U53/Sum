@@ -63,7 +63,7 @@ echo " "
 
 # Recupere les info SNMP,UPnP,mDNS & créé un rapport
 for hote in ${hotes}; do
-   	echo "${VERT}[+]${RESET} ${hote} --> ${hote}-udp.html"
+   	echo -e "${VERT}[+]${RESET} ${hote} --> ${hote}-udp.html"
    	nmap -A -sU -p 1900,5353,161 -v -oX ${dir}/SUm/${hote}-udp.xml ${hote} > /dev/null 2>&1
    	xsltproc ${dir}/SUm/${hote}-udp.xml > ${dir}/SUm/${hote}-udp.html
 done
