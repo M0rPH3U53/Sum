@@ -45,7 +45,7 @@ read network
 # Découverte réseau d'appareil SNMP,UPnP,mDNS
 echo " "
 echo -ne "🔍 ${BLANC}Scan UDP${RESET}..."
-hotes=$(nmap -sU -p 1900,5353,161 --open ${network} -oG - | grep "/open" | awk '{print $2}')
+hotes=$(nmap -sU -p 1900,5353,161 --open ${network} -oG - | grep "/open/udp" | awk '{print $2}')
 echo -e "${JAUNE}100%${RESET}"
 
 # Verifie si la variable est vide
